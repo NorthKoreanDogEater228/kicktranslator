@@ -1,4 +1,4 @@
-target/
+target/*
 !target/launch.bat
 
 !.mvn/wrapper/maven-wrapper.jar
