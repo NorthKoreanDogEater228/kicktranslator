@@ -1,0 +1,1 @@
+Helps to avoid new automoderarion on kick. Safe translation will be automatically copied to your clipboard. Only supports windows and russian language for now, input on other languages will stay untouched.
