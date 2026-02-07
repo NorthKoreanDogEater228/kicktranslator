@@ -1,9 +1,7 @@
 package me.loluch123321;
 
 import java.util.HashMap;
-import java.util.Map;
 
-import static javax.swing.UIManager.put;
 
 public class Utils {
     public static HashMap<Character, String> map = new HashMap<>() {{
@@ -43,7 +41,7 @@ public class Utils {
         put('С', "C");
         put('м', "m");
         put('М', "M");
-        put('и', "u ");
+        put('и', "u");
         put('И', "N");
         put('т', "T");
         put('Т', "T");
